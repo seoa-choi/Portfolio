@@ -1,7 +1,7 @@
 # [프론트엔드 개발자] 최서아
 ## AI 서비스개발 프로젝트 구축 기술스택
 
-Fol:in 클론코딩
+✔Fol:in 클론코딩
 
 **`[소개]`**
 
@@ -51,3 +51,14 @@ CI, CD
 **`[프로젝트 링크]`**
 
 [https://seoachoiaws.com](https://seoachoiaws.com)
+
+
+✔lotte-eatz 클론코딩
+
+**`[Github 링크]`**
+
+[롯데잇츠](https://github.com/seoa-choi/lotte-eatz.git)
+
+**`[프로젝트 링크]`**
+
+[https://lotte-eatz-nine.vercel.app/](https://lotte-eatz-nine.vercel.app/)
